@@ -1,0 +1,12 @@
+[1211/224221.182:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1211/225221.223:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1213/193634.689:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1213/193634.704:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\pc\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\0a93fd02-57f4-42e4-84f9-55cec858580c: The system cannot find the path specified. (0x3)
+[1215/222620.385:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1215/223620.473:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1223/232238.458:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1223/233238.529:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1230/222909.496:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1231/234026.537:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1231/234026.541:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\pc\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f798e530-2332-465b-9dfd-26d95920a41a: The system cannot find the path specified. (0x3)
+[0117/102540.263:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
